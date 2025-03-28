@@ -29,4 +29,32 @@
 
    ------------------------------------------------------------------------------------------------------------------------------------------
 
-   ![image_alt](https://github.com/DSgenes/Sales-Comparison-Analysis/blob/69f01656fbae08067211c9e6ee82e3a334351687/Screenshot%20iphone.png)
+# iPhone Sales Comparison Report
+
+   This Power BI report analyzes and compares sales data for the iPhone 14 and iPhone 15 across the top 10 countries. The report includes:
+
+         • Total Sales Comparison – iPhone 14 vs. iPhone 15
+         • Absolute Variance – Difference in sales volume
+         • Percentage Variance – Growth/decline rate
+         • Visual Insights – Charts highlighting trends and country-wise performance
+
+This project provides a data-driven approach to understanding sales trends and key market differences.
+
+![image_alt](https://github.com/DSgenes/Sales-Comparison-Analysis/blob/69f01656fbae08067211c9e6ee82e3a334351687/Screenshot%20iphone.png)
+
+# Key Insights : 
+
+        • Growth Markets/Strong Growth: Brazil, Germany, and India show significant positive variance and an increase in iPhone 15 sales.
+        
+        • Declining Markets/Decline in Sales: UAE and the U.S. had a significant drop in sales and notable negative variance.
+        
+        • Overall Trend/Total Sales Comparison: iPhone 15 sales were -4.26% lower than iPhone 14 across these markets.
+
+        • Positive % (e.g., Brazil: +19.69%) → iPhone 15 sales increased compared to iPhone 14.
+
+        • Negative % (e.g., U.S.: -32.97%) → iPhone 15 sales dropped compared to iPhone 14.
+
+        • Total Sales Variance: -4.26% → Indicates an overall slight decline in sales across the top 10 markets.
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
