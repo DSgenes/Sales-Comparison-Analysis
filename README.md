@@ -2,7 +2,7 @@
 
 # Objective: 
 
-   Conduct a comparison analysis of iPhone 15 sales and iPhone 14 sales. 
+    Conduct a comparison analysis of iPhone 15 sales and iPhone 14 sales. 
 
 # Datasets: 
 
