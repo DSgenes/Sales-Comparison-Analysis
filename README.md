@@ -50,11 +50,11 @@ This project provides a data-driven approach to understanding sales trends and k
         
         • Overall Trend/Total Sales Comparison: iPhone 15 sales were -4.26% lower than iPhone 14 across these markets.
 
-        • Positive % (e.g., Brazil: +19.69%) → iPhone 15 sales increased compared to iPhone 14.
+        • Positive % (e.g., Brazil: +19.69%) : iPhone 15 sales increased compared to iPhone 14.
 
-        • Negative % (e.g., U.S.: -32.97%) → iPhone 15 sales dropped compared to iPhone 14.
+        • Negative % (e.g., U.S.: -32.97%) : iPhone 15 sales dropped compared to iPhone 14.
 
-        • Total Sales Variance: -4.26% → Indicates an overall slight decline in sales across the top 10 markets.
+        • Total Sales Variance: -4.26% : Indicates an overall slight decline in sales across the top 10 markets.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
