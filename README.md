@@ -29,7 +29,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# Reviewing Data
+# Reviewing Data :
 
 You will be provided with three datasets for this analysis: 
 1. dim_stores
