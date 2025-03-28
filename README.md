@@ -29,4 +29,4 @@
 
    ------------------------------------------------------------------------------------------------------------------------------------------
 
-   ![image_alt]()
+   ![image_alt](https://github.com/DSgenes/Sales-Comparison-Analysis/blob/69f01656fbae08067211c9e6ee82e3a334351687/Screenshot%20iphone.png)
