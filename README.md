@@ -27,15 +27,22 @@
 5. Provide a complete report of the difference in numbers between the iPhone 15 
    sales and iPhone 14 sales data across the top 10 countries.
 
-   ------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
+
+# Reviewing Data
+
+![image_alt](https://github.com/DSgenes/Sales-Comparison-Analysis/blob/f3fd865f36a8cb151b70ec403583c5a5e18c9df2/meta_data.txt)
 
 # iPhone Sales Comparison Report
 
    This Power BI report analyzes and compares sales data for the iPhone 14 and iPhone 15 across the top 10 countries. The report includes:
 
          • Total Sales Comparison – iPhone 14 vs. iPhone 15
+         
          • Absolute Variance – Difference in sales volume
+         
          • Percentage Variance – Growth/decline rate
+         
          • Visual Insights – Charts highlighting trends and country-wise performance
 
 This project provides a data-driven approach to understanding sales trends and key market differences.
