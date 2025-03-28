@@ -31,8 +31,31 @@
 
 # Reviewing Data
 
-![image_alt](https://github.com/DSgenes/Sales-Comparison-Analysis/blob/f3fd865f36a8cb151b70ec403583c5a5e18c9df2/meta_data.txt)
+You will be provided with three datasets for this analysis: 
+1. dim_stores
+2. fact_sales_iPhone14
+3. fact_sales_iPhone15
 
+------------------------------------------------------------------------------------------------------------------------------------------
+dim_stores: This table contains all the information about stores
+1. store_id: Unique identifier for each store.
+2. country_name: Name of the country where the store is located.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+fact_sales_IPhone14: This table contains aggregated sales data for iPhone14 in September, October, and November of 2022.
+1.	month: This column represents month and year in the format 'Mmm_yy'.
+2.	store_id: Unique identifier for each store.
+3.	iphone14: This column represents the actual sales data for a specific store in a given month for Iphone14.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+fact_sales_IPhone15: This table contains aggregated sales data for iPhone15 in September, October, and November of 2023.
+1.	month: This column represents month and year in the format 'Mmm_yy'.
+2.	store_id: Unique identifier for each store.
+3.	iphone15: This column represents the actual sales data for a specific store in a given month for Iphone15.
+
+------------------------------------------------------------------------------------------------------------------------------------------
 # iPhone Sales Comparison Report
 
    This Power BI report analyzes and compares sales data for the iPhone 14 and iPhone 15 across the top 10 countries. The report includes:
